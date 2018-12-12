@@ -1,7 +1,7 @@
 <template>
     <div class="box">
         <router-link to="/hello">
-          <button>Ckkkk</button>
+          <button>Ckkkkga</button>
         </router-link>
     </div>
 </template>
